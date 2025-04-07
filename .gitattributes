@@ -1,0 +1,2 @@
+# Exclude notebook JSON payloads from GitHub language statistics.
+*.ipynb linguist-detectable=false
